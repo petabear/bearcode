@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<title>Pete</title>
+<style>
+body {background-color: powderblue;}
+h1   {color: black;}
+p    {color: black;}
+</style>
+
+<style>
+div {
+  width: 1000px; 
+  border: 0px solid #000000;
+}
+
+div.a {
+  word-wrap: normal;
+}
+
+div.b {
+  word-wrap: break-word;
+}
+</style>
+<style>
+div.a {
+  text-align: center;
+}
+
+div.b {
+  text-align: left;
+}
+
+div.c {
+  text-align: right;
+} 
+
+div.d {
+  text-align: justify;
+} 
+
+
+
+
+</style>
+
+
+
+
+	<link href="https://fonts.googleapis.com/css?family=Caveat+Brush" rel="stylesheet"> 	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<link rel="stylesheet" href='tictactoe.css'>
+	<script src="tictactoe.js"></script>
+
+
+
+
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+<body>
+
+<center>
+<a class="weatherwidget-io" href="https://forecast7.com/en/13d76100d50/bangkok/" data-label_1="BANGKOK" data-label_2="WEATHER" data-theme="original" >BANGKOK WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
+
+<br></br>
+<br></br>
+<br></br>
+
+
+<a href="https://ibb.co/gRQv6Y6"><img src="https://i.ibb.co/fxZ8QJQ/32-D6-DA26-3-C8-C-4936-8995-6864-AB985518.jpg" alt="32-D6-DA26-3-C8-C-4936-8995-6864-AB985518" border="0"></a>
+<h1>Peter Vongphakdy</h1>
+
+<div class="b">
+<p>Hello! You can call me Pete for short! I am a senior at Lamar University and currently working for a real estate software company as a Support Specialist. I am originally from Houston, Texas, but I am now living in Bangkok, Thailand. I am a singer-songwriter and I hope that one day I'll get to release my first single.</p>
+</div>
+<div class="b">
+<p>As a Support Specialst for BoomTown ROI, one part of my job is basic customization on client websites on WordPress. Also, our real estate software is mostly html-repsonsive, so I have a beginning level of HTML and CSS styles. The reason why I chose to study COSC 3320 is to learn more about HTML so I can apply it to my current job and add to my experience for future use.</p>
+</div>
+
+<br></br>
+<br></br>
+<br></br>
+
+
+
+
+
+
+
+<br></br>
+<br></br>
+<br></br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/or_uD06XN_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br></br>
+<br></br>
+<br></br>
+
+
+
+</center>
+
+
+</body>
+
+</html>
+
+
+
